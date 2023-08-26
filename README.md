@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository.
 <br>
-Author - Dev Gandhi
+Author - Dev (JH)
